@@ -1,0 +1,26 @@
+.navbar {
+  background-color: #fff;
+  padding: 20px 0; /* Space between navbar and top edge */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navbar-brand {
+  position: absolute;
+  left: 20px;
+}
+
+.brand-logo {
+  height: 50px;
+}
+
+.navbar-heading {
+  font-size: 2rem;
+  font-weight: bold;
+  margin: 0;
+}
